@@ -1,0 +1,10 @@
+<?php
+
+return array(
+    'mongo' => array(
+        'user' => array(
+            'database' => '',       //Name of your MongoDB Database
+            'collection' => '',     //Name of your MongoDB Collection
+        ),
+    ),
+);
