@@ -10,7 +10,7 @@
         "zfcuser",
         "dbabstract"
     ],
-    "homepage": "https://github.com/aaron4m/mongo-user",
+    "homepage": "https://github.com/fourmation/mongo-user",
     "require": {
         "php": ">=5.3.3",
         "zf-commons/zfc-user": "0.*",
